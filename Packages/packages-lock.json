@@ -354,6 +354,12 @@
       },
       "url": "https://package.openupm.com"
     },
+    "com.zuhair.genrpg": {
+      "version": "file:com.zuhair.genrpg",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

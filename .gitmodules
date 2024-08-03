@@ -1,0 +1,3 @@
+[submodule "Packages/com.zuhair.genrpg"]
+	path = Packages/com.zuhair.genrpg
+	url = https://github.com/ZuhairGhias/com.zuhair.genrpg.git
